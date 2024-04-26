@@ -11,11 +11,13 @@ On / Off button - available through connector
   double press instant ON / OFF
 
 up button
+
   short press  gradual on till last level then step up
   long press   continous level up  till  max
   double press instant On till last level  or min if last was 0
   
 down
+
   short press   if on redure by step or off if at last step
   long press    continous step down till off 
   double press  auto gradual off 
