@@ -19,3 +19,6 @@ down
   short press   if on redure by step or off if at last step
   long press    continous step down till off 
   double press  auto gradual off 
+
+
+PCB board information is found [here](http:\\PCBhut.com\Products\NightLightLEDdimmer_Dual\index.html)
