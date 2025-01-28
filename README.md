@@ -1,6 +1,6 @@
 
-Version 2.03 for dual output PWM board.
-Example program uses first driver as PWM for driving LED string. 
+Version 2.03 for our dual output PWM board.
+Example program uses first driver as the main PWM for driving LED string. 
 The 2 onboard buttons control duty cycle of first MOSFET transistor from 5 to 100%
 A trigger pin on IO connector triggers 90 second count down timer for second MOSFET
 Rev 2.03 adds auto shut off for MOSFET 1
